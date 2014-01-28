@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Libs" systemlibrary="false">
+        <archive path="/Libs/Comum/commons-io-1.4.jar"/>
+        <archive path="/Libs/Comum/commons-lang-2.4.jar"/>
+        <archive path="/Libs/Comum/commons-validator-1.3.1.jar"/>
+    </library>
+    <library name="Reports" systemlibrary="false">
+        <archive path="/Libs/Report/jasperreports-4.0.0.jar"/>
+        <archive path="/Libs/Report/iText-2.1.7.jar"/>
+    </library>
+</eclipse-userlibraries>
